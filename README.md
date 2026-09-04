@@ -29,7 +29,7 @@ Istanbul 🇹🇷
 ### 📁 Client Work
 
 **Order Shipment Platform**  `Roco Paper · Turkey`
-> Order shipment platform for an e-commerce retailer, aggregating orders from multiple marketplaces and automating the shipping process.Drives Zebra printers for carrier labels and Epson printers for warehouse picking lists.
+> Order shipment platform for an e-commerce retailer, aggregating orders from multiple marketplaces and automating the shipping process. Drives Zebra printers for carrier labels and Epson printers for warehouse picking lists.
 
 **TLP Server**  `Yavin · France`
 > Backend service implementing the CB2A/TLP initialization protocol for payment terminals.
