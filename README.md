@@ -2,7 +2,7 @@
 
 # Ömer Faruk Uluocak
 
-Backend engineer drawn to systems where software meets hardware — banking kiosks, smart home systems and connected devices.
+Backend engineer drawn to the point where software meets hardware: banking kiosks, smart home platforms, and connected devices. I favor architectures like modular monoliths that keep systems maintainable as they grow
 
 Istanbul 🇹🇷
 
@@ -20,7 +20,7 @@ Istanbul 🇹🇷
 
 💳 **POS Systems:** Verifone terminals, ISO 8583, CB2A/TLP protocol
 
-📦 **E-Commerce:** Marketplace and logistics integrations, warehouse automation
+📦 **E-Commerce:** Logistics integrations, warehouse automation, browser-to-printer bridges
 
 🔌 **IoT:** MQTT device control, smart home backend
 
@@ -29,7 +29,7 @@ Istanbul 🇹🇷
 ### 📁 Client Work
 
 **Warehouse Operations Platform**  `Roco Paper · Turkey`
-> Order shipment platform for an e-commerce retailer, aggregating orders from multiple marketplaces and automating the shipping process. Drives Zebra printers for carrier labels and Epson printers for warehouse picking lists.
+> Warehouse operations platform for an e-commerce retailer, aggregating orders from multiple marketplaces and automating the shipping process. Drives Zebra printers for carrier labels and Epson printers for warehouse picking lists.
 
 **TLP Server**  `Yavin · France`
 > Backend service implementing the CB2A/TLP initialization protocol for payment terminals.
