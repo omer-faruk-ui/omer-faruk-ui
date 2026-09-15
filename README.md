@@ -2,7 +2,7 @@
 
 # Ömer Faruk Uluocak
 
-Backend engineer drawn to the point where software meets hardware: banking kiosks, smart home platforms, and connected devices. I favor architectures like modular monoliths that keep systems maintainable as they grow
+Backend engineer drawn to the point where software meets hardware: banking kiosks, smart home platforms, and connected devices. Favoring architectures like modular monoliths that keep systems maintainable as they grow
 
 Istanbul 🇹🇷
 
